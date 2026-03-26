@@ -1,26 +1,34 @@
-# Detective SqueeGee v0.1.0
+Detective SqueeGee by Tazhmin
 
-## Initial Release
+Detective SqueeGee is a lightweight Windows utility designed as a fast, flexible alternative to Task Manager for finding, analyzing, and terminating problematic processes.
 
-### Features
-- Fuzzy process search
-- Hung + suspended detection
-- Safe termination with confirmation
-- Multi-monitor window control
-- Quick system tool access
-- Logging system
+It is especially useful when:
+- Task Manager is frozen or unresponsive
+- Windows are off-screen or inaccessible
+- You need faster fuzzy search for processes
+- You want quick access to system tools
 
-### Added Buttons
-- Close Visible Windows
-- Kill Steam
-- Kill Chrome
-- Event Viewer
-- Device Manager
+---
 
-### Notes
-- First public release
-- Windows only
+ Features
 
-
-
-release notes.md
+-  Smart process search (case-insensitive, fuzzy, token-based)
+-  Fast filtering without re-scanning processes
+-  Detects:
+  - Not responding (hung windows)
+  - Suspended-like processes
+-  Safe termination:
+  - Skips critical/system processes
+  - Confirmation prompt before termination
+-  Built-in logging:
+  - Tracks terminated processes
+  - Timestamped actions
+-  Multi-monitor support:
+  - `Alt + [` → Move window left
+  - `Alt + ]` → Move window right
+-  Quick-access buttons:
+  - Event Viewer
+  - Device Manager
+  - Kill Steam
+  - Kill Chrome
+  - Close visible windows
