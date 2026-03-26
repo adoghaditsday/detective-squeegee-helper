@@ -1,0 +1,4 @@
+ Disclaimer
+
+Detective SqueeGee is a utility tool for managing user-level processes.
+Use caution when terminating applications and ensure important work is saved.

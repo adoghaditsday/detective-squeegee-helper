@@ -1,0 +1,6 @@
+Future Improvements
+Color-coded UI (hung / normal / system)
+Duplicate-process-only filter
+Auto-clean mode
+Plugin system
+Portable config profiles

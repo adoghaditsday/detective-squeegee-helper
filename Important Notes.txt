@@ -1,0 +1,24 @@
+ Important Notes
+
+- This app can terminate processes — use responsibly
+- Some actions may require Administrator privileges
+- "Not Responding Duration" is tracked during runtime only
+- Windows SmartScreen may warn because the app is unsigned
+
+---
+
+ Safety Design
+
+Detective SqueeGee:
+- Skips critical/system processes automatically
+- Prompts before terminating processes
+- Logs all termination actions
+- Uses standard Windows APIs (no injection or unsafe hooks)
+
+---
+
+ Build From Source
+
+```bash
+pip install -r requirements.txt
+pyinstaller --clean --onefile --noconsole --name "Detective SqueeGee" detective_squeegee.py
