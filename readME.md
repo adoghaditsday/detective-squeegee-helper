@@ -1,5 +1,5 @@
 Detective SqueeGee by Tazhmin
-
+<img width="1024" height="1024" alt="detectivesqueegee" src="https://github.com/user-attachments/assets/5e54dc31-752f-4d0d-a7b8-39817cdb7c73" />
 Detective SqueeGee is a lightweight Windows utility designed as a fast, flexible alternative to Task Manager for finding, analyzing, and terminating problematic processes.
 
 It is especially useful when:
@@ -32,3 +32,4 @@ It is especially useful when:
   - Kill Steam
   - Kill Chrome
   - Close visible windows
+<img width="1019" height="791" alt="image" src="https://github.com/user-attachments/assets/dcb37a4d-1749-4d63-b50c-51f5e7f5ee33" />
