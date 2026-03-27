@@ -1,5 +1,5 @@
 Detective SqueeGee by Tazhmin
-<img width="1536" height="1024" alt="detectivesqueegee_2" src="https://github.com/user-attachments/assets/82118a9c-ccf3-422b-813b-cd7aa2808a73" />
+<img width="1536" height="1024" alt="detectivesqueegee_2" src="https://github.com/user-attachments/assets/841a3dfa-21fc-4a14-aa95-9db8e45a31c5" />
 Detective SqueeGee is a lightweight Windows utility designed as a fast, flexible alternative to Task Manager for finding, analyzing, and terminating problematic processes.
 
 It is especially useful when:
