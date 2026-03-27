@@ -32,4 +32,34 @@ It is especially useful when:
   - Kill Steam
   - Kill Chrome
   - Close visible windows
-<img width="1019" height="791" alt="image" src="https://github.com/user-attachments/assets/dcb37a4d-1749-4d63-b50c-51f5e7f5ee33" />
+<img width="1118" height="789" alt="image" src="https://github.com/user-attachments/assets/94f959ea-8309-43fd-a293-da6c5472c5de" />
+
+DSqG Updated:
+
+Start up logo
+
+Converted Options to Buttons
+
+	- Text descriptions display upon hovering
+
+Dark Mode Option
+
+Watched Programs Section
+
+	- You can now add file paths for programs you want to keep a watchful eye on in case they are suspended during use
+	
+Row Colors
+
+	-You can designate Core programs, Watched programs, and Suspended with an RGB color of your choosing
+
+Keybinds
+
+	-All binds have a default option but you can now change them to any single or combination of buttons (2)
+
+About section
+
+Restore Default settings button
+
+Minimize to tray and Restore on clicking the Exit button
+
+	-Exit button shows when minimize option is enabled in the options menu
