@@ -32,9 +32,11 @@ It is especially useful when:
   - Kill Steam
   - Kill Chrome
   - Close visible windows
-<img width="1118" height="789" alt="image" src="https://github.com/user-attachments/assets/94f959ea-8309-43fd-a293-da6c5472c5de" />
+
+<img width="1177" height="807" alt="image" src="https://github.com/user-attachments/assets/f008d257-1f7b-420a-9be4-6cc40f55c83c" />
 
 DSqG Updated:
+CustomTkinter UI
 
 Start up logo
 
